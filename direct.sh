@@ -1,4 +1,4 @@
 #!/bin/sh
-/bin/mkdir Splendid
-/bin/touch Splendid/Super
-/bin/echo "Jenkins File created on GitHub" >> Splendid/Super
+/bin/mkdir /Users/shriram/Splendid
+/bin/touch /Users/shriram/Splendid/Super
+/bin/echo "Jenkins File created on GitHub" >> /Users/shriram/Splendid/Super
